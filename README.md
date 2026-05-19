@@ -1,2 +1,19 @@
-# 110stories
-many stories...many, many stories...
+# 110 Stories: A Collection of Memories 📖
+
+A curated collection of personal narratives related to the World Trade Center and the events of September 11, 2001. This repository serves as a digital archive for the "110 Stories" project, preserving voices and memories for future generations.
+
+## 📥 Access the Collection
+
+[**Download the Story Collection (PDF)**](self_evident_publish_final.pdf)
+
+### 📊 Quick Facts
+- **Format:** PDF Document
+- **Size:** 8.3 MB
+- **Pages:** 41 pages
+- **Estimated Reading Time:** 45–60 minutes
+
+---
+
+## 💡 About this Collection
+
+"110 Stories" is a tribute to the human experience surrounding the World Trade Center. It brings together a diverse array of perspectives, from everyday moments in the shadow of the towers to the profound impact of 9/11. By documenting these stories, we ensure that the personal history of this landmark and its community is never forgotten.
