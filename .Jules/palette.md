@@ -1,0 +1,3 @@
+## 2025-05-27 - Surfacing "Scent of Information" in Document Archives
+**Learning:** In repositories where the primary asset is a large document (like a PDF), the README serves as the "Scent of Information." Providing high-level metadata (size, pages) is good, but surfacing specific qualitative details—like the specific roles or perspectives featured—significantly improves discoverability and reduces the user's "interaction cost" before they commit to a download.
+**Action:** When archiving collections, explicitly list the types of voices or specific categories contained within to give users an immediate mental model of the content.
