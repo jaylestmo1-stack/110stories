@@ -1,0 +1,3 @@
+## 2026-08-15 - UX Patterns for Archival Trust & Empathy
+**Learning:** Digital archives benefit from "README-as-UI" with "Engagement Choice" access and visual cues (e.g., ↗️). Explicit metadata (versioning, read time) and searchability hints (e.g., "Ctrl+F") reduce friction and build trust.
+**Action:** Use scannable, high-density interfaces with immediate support pathways and explicit asset metadata/hints.
