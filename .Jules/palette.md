@@ -1,0 +1,3 @@
+## 2026-09-06 - Safe External Navigation and Immediate Crisis Links in Archival Interfaces
+**Learning:** Distressed users consulting sensitive archives need immediate, direct crisis intervention (e.g. direct `tel:`/`sms:` URIs) and non-disruptive external navigation (`target="_blank"`, `rel="noopener"`) so they do not lose their place or face interaction friction during urgent support requests.
+**Action:** Always wrap external support and helpline links in semantic `<a>` anchors with explicit `aria-label`, hover `title`, visual new-tab indicators (`↗️`), and clickable `tel:`/`sms:` schemas in content warnings.
